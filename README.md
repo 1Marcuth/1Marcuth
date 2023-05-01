@@ -7,12 +7,7 @@
   - Discord: Marcuth#1862
   - Telegram: @marcuth
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=1Marcuth)
-<br>
-<a href="https://github.com/1Marcuth">
-  <img src="https://komarev.com/ghpvc/?username=1Marcuth&color=green" alt="1Marcuth" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Marcuth&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcuth.dev/)
 <!---
