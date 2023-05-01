@@ -7,7 +7,7 @@
   - Discord: Marcuth#1862
   - Telegram: @marcuth
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Marcuth&langs_count=9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Marcuth&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcuth.dev/)
 <!---
