@@ -1,16 +1,9 @@
-- 👋 Hi, I’m Marcuth
-- 👀 I’m interested in Web Scraping, IAs, bots, APIs and websites...
-- 🌱 I’m currently learning Clean Code, production-Ready Microservices, Web Scraping with Python and modern websites...
-- 📫 How to reach me 
-  - Instagram: @marcuth.dev
-  - Replit: @marcuth
-  - Discord: Marcuth#1862
-  - Telegram: @marcuth
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Marcuth&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcuth.dev/)
-<!---
-1Marcuth/1Marcuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=1marcuth&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=1marcuth&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=1marcuth&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <div id="badges">
+</div>
+</div>
