@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Xcrap Cloud](https://github.com/xcrap-cloud)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcuth&theme=github_dark" width="400"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/marcuth.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcuth.dev" height="30" width="40" /></a>
