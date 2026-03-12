@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcuth</h1>
 <h3 align="center">FullStack Developer & Indie Hacker</h3>
 
-- 🔭 I’m currently working on [Xcrap Cloud](https://github.com/xcrap-cloud)
+- 🔭 I’m currently working on [Xcrap](https://github.com/xcrap-dev)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcuth&theme=github_dark" width="400"/>
 
